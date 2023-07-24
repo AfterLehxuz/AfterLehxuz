@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastian Lopez Vanegas (AfterLehxuz_)</h1>
-<h3 align="center">A passionate Freelance full-stack dev and iOS & Android engineer from Colombia🇨🇴</h3>
+<h3 align="center">A passionate Freelance full-stack dev and iOS & Android engineer from Colombia 🇨🇴</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afterlehxuz&label=Profile%20views&color=0e75b6&style=flat" alt="afterlehxuz" /> </p>
 
