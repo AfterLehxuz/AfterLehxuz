@@ -19,10 +19,13 @@
 
 - 📫 How to reach me **juans.lopez2004@gmail.com**
 
-- ⚡ Fun fact **I am studying English and programming someone said that it give a lot of money but i'm waiting 😰**
+- ⚡ Fun fact **I am studying English and programming because someone said me that it gives a lot of money but i'm waiting 😰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/22279204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22279204" height="30" width="40" /></a>
+<a href="https://fb.com/afterlehxuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afterlehxuz" height="30" width="40" /></a>
+<a href="https://discord.gg/BKyajMc7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BKyajMc7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afterlehxuz&show_icons=true&locale=en" alt="afterlehxuz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afterlehxuz&" alt="afterlehxuz" /></p>
-
